@@ -1,0 +1,20 @@
+.title {
+  &-small {
+    letter-spacing: 0.5rem;
+    font-size: 1.7rem;
+  }
+
+  &-white {
+    color: white;
+  }
+}
+
+.text {
+  &-secondary {
+    color: var(--gold);
+  }
+
+  &-hint {
+    color: var(--hint);
+  }
+}
