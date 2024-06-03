@@ -183,7 +183,7 @@ aside .block .bar-skill .bar-skill-progress {
 aside .block .bar-skill .bar-skill-progress-java {
   position: absolute;
   height: 5px;
-  width: 5%;
+  width: 10%;
   top: 0;
   left: 0;
   background: var(--light);
@@ -202,7 +202,7 @@ aside .block .bar-skill .bar-skill-dot-java {
   height: 10px;
   width: 10px;
   background: var(--primary);
-  left: calc(5% - 5px);
+  left: calc(10% - 5px);
   top: -2.5px;
   transform: rotate(45deg);
 }
